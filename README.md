@@ -1,4 +1,4 @@
-# Automation Tester Interview - Automated Playback of Amazon MiniTV Series
+# Automated Playback of Amazon MiniTV Series
 ### Objective:
 The objective of this assignment is to assess the candidate's skills in automating the playback of
 a series on Amazon MiniTV using Python, Appium, and pytest. The candidate will be required to
