@@ -1,4 +1,5 @@
 # Automated Playback of Amazon MiniTV Series
+
 ### Objective:
 The objective of this assignment is to assess the candidate's skills in automating the playback of
 a series on Amazon MiniTV using Python, Appium, and pytest. The candidate will be required to
@@ -37,6 +38,10 @@ passed or failed).
 I have attached the Python code file (amazon_minitv_test.py).
 If there are any specific instructions or notes for running the code, I’ve included them as well.
 Additionally, I’ve provided a brief explanation of my approach along with the challenges I encountered during the assignment.
+
+# Results
+![Reports](https://github.com/user-attachments/assets/24c22332-45aa-4055-b0cd-8d592b0a1cec)
+
 Note:
 
 The assignment assumes a basic knowledge of Python, Selenium, Appium, and pytest.
